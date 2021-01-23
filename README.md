@@ -24,3 +24,6 @@
       - Excel Charting
       - Excel Functions
       - Excel Vlookup & hlookup
+      
+# Course Materials created by the Race Academy
+# Course Materials finalised by Sayyid Khan
