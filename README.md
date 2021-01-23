@@ -1,4 +1,7 @@
 # Python January 2021 Batch - Learn Python with introductory data analytics
+#### how to use this content:
+1. unzip 
+
 
 ## course outline
 
