@@ -1,7 +1,7 @@
 # Python January 2021 Batch - Learn Python with introductory data analytics
 #### how to use this content:
-1. unzip 
-
+1. unzip course materials.zip to unlock all powerpoint slides
+2. course outline is shared in the course outline.ppt slides
 
 ## course outline
 
