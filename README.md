@@ -1,4 +1,8 @@
 # Python January 2021 Batch - Learn Python with introductory data analytics
+#### pre-requisites for the course:
+1. have jupyter notebook installed with the anaconda framework
+2. have microsoft excel installed on your computer
+
 #### how to use this content:
 1. unzip course materials.zip to unlock all powerpoint slides
 2. course outline is shared in the course outline.ppt slides
